@@ -1,0 +1,21 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nip": "varchar",
+        "nama": "varchar",
+        "jabatan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nip": "NIP",
+        "nama": "Nama Pegawai",
+        "jabatan": "Jabatan",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "nip": "required|unique",
+        "nama": "required"
+    },
+    "alias": []
+}

@@ -1,0 +1,32 @@
+
+	red{
+		color:red;
+	}
+	.mw-100{
+		min-width: 60px !important;
+	}
+	.mw-150{
+		min-width: 100px !important;
+	}
+	.mw-250{
+		min-width: 330px !important;
+	}
+	.t-sb-1{
+		background-color: #cacaca;
+	}
+	.r-45{
+		transform: rotate(45deg);
+	}
+	.r-45-{
+		transform: rotate(-45deg);
+	}
+	.mt-6{
+		margin-top: 5em;
+	}
+	.select2-selection__rendered{
+		text-align: left !important;
+	}
+	.content-body .select2-container--default .select2-selection--single{
+		min-width: auto !important;
+		width: auto !important;
+	}

@@ -1,0 +1,5 @@
+
+.content-body .select2-container--default .select2-selection--single{
+	min-width: auto !important;
+	width: auto !important;
+}

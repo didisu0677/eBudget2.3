@@ -1,0 +1,22 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode_anggaran": "varchar",
+        "coa": "varchar",
+        "nama": "varchar",
+        "index_kali": "float",
+        "keterangan": "text",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode_anggaran": "Kode Anggaran",
+        "coa": "Coa",
+        "nama": "Nama",
+        "index_kali": "Index Kali",
+        "keterangan": "Keterangan",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

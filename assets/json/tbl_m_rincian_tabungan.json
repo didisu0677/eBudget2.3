@@ -1,0 +1,22 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nama": "varchar",
+        "coa": "varchar",
+        "biaya_bunga": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nama": "Nama",
+        "coa": "COA",
+        "biaya_bunga": "Biaya Bunga",
+        "is_active": "Aktif"
+    },
+    "validation": {
+        "nama": "required",
+        "coa": "required",
+        "biaya_bunga": "required"
+    },
+    "alias": []
+}

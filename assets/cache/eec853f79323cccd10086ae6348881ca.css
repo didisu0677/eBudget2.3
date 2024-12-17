@@ -1,0 +1,20 @@
+
+	.min-w-100{
+		min-width: 100px !important;
+	}
+	.min-w-80{
+		min-width: 80px !important;
+		width: 80px !important;
+	}
+	.min-w-ket{
+		min-width: 330px !important;
+	}
+	.filter-panel .select2-selection--single {
+	  height: 100% !important;
+	  min-height:30px;
+	}
+	.filter-panel .select2-selection__rendered{
+	  word-wrap: break-word !important;
+	  text-overflow: inherit !important;
+	  white-space: normal !important;
+	}
